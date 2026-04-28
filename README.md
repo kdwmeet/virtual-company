@@ -65,3 +65,7 @@ uv run streamlit run main.py
 4. 최종 결과물 수렴: 모든 내부 검증이 완료된 고품질의 코드가 상위 그래프로 최종 반환되어 출력되는지 점검합니다.
 
 ## 8. 실행 화면
+
+<img width="1093" height="838" alt="스크린샷 2026-04-28 100407" src="https://github.com/user-attachments/assets/520527d7-9035-4ce0-8850-9b9839d35c50" />
+<img width="1014" height="1220" alt="스크린샷 2026-04-28 100140" src="https://github.com/user-attachments/assets/0d60e451-a77a-46d9-8830-a956ffee2a47" />
+
